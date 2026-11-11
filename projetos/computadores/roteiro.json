@@ -1,0 +1,47 @@
+[
+  {
+    "title": "O problema das contas",
+    "text": "Por que criaram os computadores? Antes de um computador caber no bolso, computador também era nome de uma profissão. Tinha gente paga pra fazer conta o dia inteiro. E bastava um número errado numa tabela pra estragar as contas de quem usasse aquela página.",
+    "visual": "Abrir num celular moderno. A câmera atravessa a tela, entra num escritório antigo e encontra uma fila de cálculos. Um dígito fica vermelho e o erro se propaga para três folhas."
+  },
+  {
+    "title": "Um programa antes da máquina",
+    "text": "Nos anos de mil oitocentos e trinta, Charles Babbage projetou uma máquina com engrenagens, memória e instruções em cartões. Ada Lovelace publicou um passo a passo pra ela calcular uma sequência de números. A parte mais maluca? O programa saiu no papel. A máquina inteira nunca ficou pronta.",
+    "visual": "Orbitar uma seção da Máquina Analítica. Engrenagens engrenam em cascata, cartões avançam e o último módulo aparece como desenho, para indicar o projeto incompleto."
+  },
+  {
+    "title": "Cada pessoa vira um cartão",
+    "text": "Em mil oitocentos e noventa, o censo americano tinha outro problema: contar um país inteiro. Herman Hollerith transformou respostas em furos no papel. Um pino passava pelo furo, fechava um circuito e girava um contador. Pela primeira vez naquele censo, uma máquina elétrica tabulava os dados.",
+    "visual": "Plano macro do cartão perfurado. Pinos descem, um atravessa o furo e a câmera segue o pulso até os mostradores. Uma pilha de cartões cresce atrás."
+  },
+  {
+    "title": "Duas máquinas, duas missões",
+    "text": "Em quarenta e um, o alemão Konrad Zuse fez o Z três rodar programas lidos de uma película perfurada. As peças faziam clique como interruptores. Na guerra, o Colossus britânico trocou os cliques por válvulas e ajudou a decifrar mensagens secretas. Cada máquina nasceu pra resolver um problema diferente.",
+    "visual": "Entrar por uma fila de relés com película em movimento. Corte para o Colossus, com rolos girando em alta velocidade e lâmpadas acendendo enquanto a fita atravessa o leitor."
+  },
+  {
+    "title": "Um computador do tamanho de uma sala",
+    "text": "Já o ENIAC nasceu pra calcular trajetórias de artilharia. Tinha cerca de dezoito mil válvulas. Pra mudar de tarefa, as programadoras montavam combinações de cabos e chaves. Quando a máquina ficou pronta, a guerra já tinha acabado. E agora, como trocar o programa sem refazer os cabos?",
+    "visual": "Travelling entre os painéis. Duas programadoras trabalham em lados opostos. Um cabo se encaixa, o pulso percorre os armários e uma trajetória aparece no quadro ao fundo."
+  },
+  {
+    "title": "O programa entra na memória",
+    "text": "Em quarenta e oito, o computador Baby, em Manchester, fez um teste que mudou tudo: rodou instruções guardadas na própria memória eletrônica. Dá pra mudar o programa escrevendo outros números nessa memória. O computador ainda ocupava espaço, mas agora você podia mandar a mesma máquina fazer outra coisa.",
+    "visual": "Plano próximo no tubo de memória. Pontos de luz são gravados, lidos e alterados. Abrir o quadro para mostrar dois padrões diferentes produzidos pelo mesmo equipamento."
+  },
+  {
+    "title": "Uma calculadora pede um chip",
+    "text": "As válvulas deram lugar aos transistores. O circuito integrado colocou vários componentes no mesmo chip. Em setenta e um, um projeto pra uma calculadora japonesa virou o Intel quatro mil e quatro, um dos primeiros microprocessadores comerciais. Agora o processador cabia na ponta de um dedo.",
+    "visual": "Travelling macro numa placa. A válvula sobe, aparecem transistores, e o circuito se junta numa pastilha. O encapsulamento com dezesseis pinos se fecha e encaixa na placa da calculadora."
+  },
+  {
+    "title": "Da mesa para a rede",
+    "text": "O computador saiu do laboratório e foi pra mesa de casa. O IBM PC de oitenta e um ajudou a popularizar um padrão que outras empresas copiaram. Depois veio a Web. O primeiro site rodava num computador no CERN com um aviso colado: essa máquina é um servidor. Não desligue.",
+    "visual": "Montar teclado, gabinete e monitor sobre a escrivaninha. O cabo segue até o servidor do CERN. A câmera passa pelo aviso e acompanha os sinais até outros computadores."
+  },
+  {
+    "title": "Do bolso a uma sala de novo",
+    "text": "Hoje o celular calcula uma rota enquanto servidores treinam inteligência artificial. E supercomputadores voltaram a ocupar salas inteiras. O El Capitan já passou de um quintilhão de operações por segundo num teste. Então, por que criaram os computadores? Pra tirar as contas repetitivas das nossas mãos. Hoje, essas contas movem o mundo.",
+    "visual": "Começar no mesmo celular da abertura. A câmera entra na placa, segue os pulsos até os servidores e termina num corredor do supercomputador. Voltar ao telefone no último plano."
+  }
+]

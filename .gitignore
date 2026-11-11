@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+__pycache__/
+.env
+**/build/
+**/timeline.json
+**/Roteiro-e-direcao.md
+**/assets/voz-*.mp3
+**/assets/narracao.mp3
+**/assets/trilha.wav
+**/assets/concat.txt
